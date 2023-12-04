@@ -1,7 +1,6 @@
 # aoc2023
 
-| Day | Part 1 | Part 2   |
-|-----|--------|----------|
-|  1  | [`sed`](day1/part1.sed)  | [`sed`](day1/part2.sed)    |
-|  2  | [`sed`](day2/part1.sed)  | [`gforth`](day2/part2.fth) |
-|  3  | [Haskell (pointfree)](day3/Part1.hs) | [Rust](day3/part2.rs) |
+- Day 1: sed – [part 1](day1/part1.sed), [part 2](day1/part2.sed)
+- Day 2: [part 1 in sed](day2/part1.sed), [part 2 in gforth](day2/part2.fth)
+- Day 3: [part 1 in pointfree Haskell](day3/Part1.hs), [part 2 in Rust](day3/part2.rs)
+- Day 4: [Zig](day4/src/main.zig)

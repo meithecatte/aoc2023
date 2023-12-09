@@ -6,3 +6,5 @@
 - Day 4: [Zig](day4/src/main.zig)
 - Day 5: [Zig](day5/src/main.zig)
 - Day 6: [Python (pypy)](day6/solve.py)
+- Day 7: looked boring so I skipped it
+- Day 8: [Python](day8/solve.py)
